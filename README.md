@@ -1,6 +1,8 @@
 
 # Employer Hiring Experience Score: Investigation and Feasibility Assessment
-
+<p align="center">
+  <img src="EmployerScoreCard_Chibi.png" alt="Sanjeevani product lifecycle infographic showing user impact metrics, drug allergen detection workflow, and therapeutic alternatives" width="85%">
+</p>
 ## TL;DR
 
 I investigated building an AI-powered Employer Hiring Experience Score — a way for candidates to evaluate how companies treat applicants before investing time in applying. This is a discovery/feasibility artifact, not a build-ready PRD. The investigation found that the problem is real, the analytics are straightforward, and AI is not the hard part. The idea breaks on data acquisition and stakeholder incentives: there is no scalable, unbiased, economically sustainable way to collect candidate-experience data today. Verdict: real problem, not yet a viable product — parked, with clear conditions for revisiting.
